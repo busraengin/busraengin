@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python,Linear Algebra,Java
 - 💞️ I’m looking to collaborate on beginners whom learning Python and help each other to grow
-- 📫 How to reach me Likedln or busraengine@gmail.com
+- 📫 How to reach me [Likedln](https://www.linkedin.com/in/busra-engin-a78412325) or busraengine@gmail.com
 - 😄 Pronouns: Bushra
 - ⚡ Fun fact: ...
 
