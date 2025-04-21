@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @busraengin
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Linear Algebra,Java
-- 💞️ I’m looking to collaborate on beginners whom learning Python and help each other to grow
-- 📫 How to reach me [Likedln](https://www.linkedin.com/in/busra-engin-a78412325) or busraengine@gmail.com
-- 😄 Pronouns: Bushra
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Busra Engin
 
-<!---
-busraengin/busraengin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science student at Bellevue College, with a background in Econometrics.  
+💡 I'm passionate about Data Science, educational content creation, and applied mathematics.  
+🧮 I use the TI-84 Plus CE calculator to create tutorial videos on YouTube for math learners.  
+💻 Currently focused on Java programming and starting new projects with Jupyter Notebook.  
+🌱 I'm planning to work on a data science project this summer to strengthen my portfolio.  
+📫 You can reach me via email at busraengin615@gmail.com or check out my [YouTube Channel](https://youtube.com/@busrraengin).  
+
+Let's connect and learn together!
+
