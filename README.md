@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Busra Engin
+👋 Hi, I'm Busra Engin
 
-🎓 I'm a Computer Science student at Bellevue College, with a background in Econometrics.  
-💡 I'm passionate about Data Science, educational content creation, and applied mathematics.  
-🧮 I use the TI-84 Plus CE calculator to create tutorial videos on YouTube for math learners.  
-💻 Currently focused on Java programming and starting new projects with Jupyter Notebook.  
-🌱 I'm planning to work on a data science project this summer to strengthen my portfolio.  
-📫 You can reach me via email at busraengin615@gmail.com or check out my [YouTube Channel](https://youtube.com/@busrraengin).  
+🎓 MS student in Data Analytics Engineering at Northeastern University (Seattle), with a background in Econometrics.
+📊 Interested in data analytics, machine learning, and turning real-world data into actionable insights.
+🧮 I create educational YouTube content using the TI-84 Plus CE calculator to support math learners.
+💻 Working with Python, SQL, Java, and data visualization tools through academic and personal projects.
+🚀 Currently building analytics projects to strengthen my data science portfolio and industry readiness.
 
-Let's connect and learn together!
+📫 Email: busraengin615@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/busraengin
+
+🎥 YouTube: https://youtube.com/@busrraengin
